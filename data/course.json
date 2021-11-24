@@ -1,0 +1,31 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Humanities",
+      "Philosophy",
+      "Political Philosophy"
+    ],
+    [
+      "Social Science",
+      "Political Science"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "c7854ca2-cdc7-a6be-4720-6db4bbddda07"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Nationalism",
+  "course_description": "This course provides a broad overview of the theories of and approaches to the study of nationalist thought and practice. It also explores the related phenomena termed nationalism: national consciousness and identity, nations, nation-states, and nationalist ideologies and nationalist movements. The course analyzes nationalism's emergence and endurance as a factor in modern politics and society. Topics include: nationalism and state-building, nationalism and economic modernization, nationalism and democratization, and nationalism and religious conflict.\n",
+  "department_numbers": [
+    "17"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "17.524",
+  "learning_resource_types": [
+    "Written Assignments"
+  ],
+  "title": "Course Metadata"
+}
